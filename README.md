@@ -21,3 +21,7 @@ e despois execute o servidor fronte-end
 ```bash
 npm start
 ```
+## Observações
+Login e senha estão fixo no codigo, naõ naó precisa escrever user/pass no login, vai sempre com ben/benspassword
+
+Abra a inspersão do codigo para ver, os dados estão a maioria no console log
