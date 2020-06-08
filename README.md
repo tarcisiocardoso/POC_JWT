@@ -22,6 +22,8 @@ e despois execute o servidor fronte-end
 npm start
 ```
 ## Observações
-Login e senha estão fixo no codigo, naõ naó precisa escrever user/pass no login, vai sempre com ben/benspassword
+Login e senha estão fixo no codigo, não precisa escrever user/pass no login, vai sempre como ben/benspassword
 
-Abra a inspersão do codigo para ver, os dados estão a maioria no console log
+Abra a inspersão do codigo para ver, os dados estão a maioria no console log.
+
+Os dados do LDAP poder ser visto no arquivo: test-server.ldif
